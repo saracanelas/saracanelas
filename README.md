@@ -55,5 +55,49 @@ Outside of coding, you'll usually find me reading, learning languages, or explor
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saracanelas&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+## 🚀 Featured Projects
+
+### Smart Campus Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+<a href="https://github.com/saracanelas/Smart-Campus-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saracanelas&repo=Smart-Campus-Platform&theme=github_dark&show_owner=true"/>
+</a>
+
+### Animal Care System
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaFX-0D47A1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+<a href="https://github.com/Animal-Care-UPT/Equipa3_comp3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Animal-Care-UPT&repo=Equipa3_comp3&theme=github_dark&show_owner=true"/>
+</a>
+
+### Farmers Market
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaFX-0D47A1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+<a href="https://github.com/Farmers-Market-UPT/farmers-market">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farmers-Market-UPT&repo=farmers-market&theme=github_dark&show_owner=true"/>
+</a>
+
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/saracanelas">saracanelas</a></i></p>
