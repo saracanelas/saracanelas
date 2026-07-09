@@ -55,7 +55,7 @@ Outside of coding, you'll usually find me reading, learning languages, or explor
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saracanelas&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
 ### Smart Campus Platform
 
@@ -84,5 +84,5 @@ A desktop application that connects local producers and consumers, providing a s
 <a href="https://github.com/Farmers-Market-UPT/farmers-market">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farmers-Market-UPT&repo=farmers-market&theme=tokyonight&show_owner=true"/>
 </a>
----
+
 <p align="center"><i>⭐️ From <a href="https://github.com/saracanelas">saracanelas</a></i></p>
